@@ -1,0 +1,18 @@
+{
+  "title": "TiSpillo",
+  "login": "Accedi",
+  "email_hint": "E-Mail",
+  "password_hint": "Password",
+  "password_hint_conf": "Ripeti Password",
+  "confirm_psw_hint": "Conferma Password",
+  "password_required": " * Password è richiesta",
+  "password_min_length": " * Minimo 8 caratteri!",
+  "password_mismatch": " * I due campi password non sono uguali!",
+  "email_required": " * La mail è obbligatoria",
+  "email_invalid": " * Indirizzo mail non valido!",
+  "login_button": "Accedi",
+  "or_text": "OPPURE",
+  "no_account": "Non hai un account? ",
+  "register": "Registrati",
+  "register_title": "Registrazione"
+}

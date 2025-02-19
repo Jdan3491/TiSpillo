@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema per il caricamento iniziale senza background di splash screen -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!-- Background bianco per lo schermo di avvio -->
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <!-- Tema normale dopo l'avvio dell'app -->
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

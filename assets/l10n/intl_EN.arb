@@ -1,0 +1,13 @@
+{
+  "title": "TiSpillo",
+  "login": "Login",
+  "email_hint": "E-Mail",
+  "password_hint": "Password",
+  "password_required": " * Password is required",
+  "email_required": " * Email is required",
+  "email_invalid": " * Invalid email address!",
+  "login_button": "Login",
+  "or_text": "OR",
+  "no_account": "Don't have an account? ",
+  "register": "Register"
+}

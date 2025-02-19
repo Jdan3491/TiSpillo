@@ -1,0 +1,18 @@
+{
+  "title": "TiSpillo",
+  "login": "Login",
+  "email_hint": "E-Mail",
+  "password_hint": "Password",
+  "password_hint_conf": "Confirm Password",
+  "confirm_psw_hint": "Confirm Password",
+  "password_required": " * Password is required",
+  "password_min_length": " * Minimum 8 characters!",
+  "password_mismatch": " * Passwords do not match!",
+  "email_required": " * Email is required",
+  "email_invalid": " * Invalid email address!",
+  "login_button": "Login",
+  "or_text": "OR",
+  "no_account": "Don't have an account? ",
+  "register": "Register",
+  "register_title": "Sign Up"
+}

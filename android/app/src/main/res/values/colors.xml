@@ -1,0 +1,4 @@
+<resources>
+    <!-- Colore di sfondo bianco per l'icona adattiva -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
